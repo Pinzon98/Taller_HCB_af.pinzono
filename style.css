@@ -1,0 +1,55 @@
+/* Add your styles here */
+img
+{
+  max-width: 100%;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 100;
+  font-style: oblique;
+  color: #18149D;
+}
+
+.bloqueinformativo
+{
+  width: 100%;
+}
+
+.row
+{
+  display: flex;
+}
+
+.informacion
+{
+  margin-left: 2rem;
+  width: 45%;
+}
+
+.informacion h2
+{
+  font-style: oblique;
+  color: #18149D;
+}
+
+.informacion a
+{
+  text-decoration: none;
+  color: green;
+}
+
+.elementos
+{
+  width: 45%;
+  margin-left: 3rem;
+}
+
+.elementos h2
+{
+  text-indent: 6.5%;
+  font-style: oblique;
+  color: #18149D;
+}
